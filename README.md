@@ -5,3 +5,5 @@ contains
 linux commands
 shell scripts 
 - array example
+- fibo
+- demoscript
